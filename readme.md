@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Aug 10, 2025, 11_09_55 AM" src="https://github.com/user-attachments/assets/4cc0ac05-86e4-4ed3-b122-342ec00750bd" />
+
 # Javascript Track Assessment
 
 ## Instructions
